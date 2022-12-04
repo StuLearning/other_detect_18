@@ -1,0 +1,8 @@
+package k8s.io^client-go#v0.0.0-20191023065929-d1b30110f1ab
+
+import _ "k8s.io/client-go"
+import "fmt"
+
+func main() {
+    fmt.Println('a')
+}
